@@ -1,9 +1,88 @@
-<mxfile host="app.diagrams.net" modified="2023-04-25T12:16:56.744Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/112.0" version="21.1.7" etag="2qkw-yu6t2dniDscma96" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-25T12:33:35.078Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="M8zDkUtwTrAIgqQKRZlK" version="21.1.7" type="github">
   <diagram name="Page-1" id="fRW0cpWD00Zzazl1AfVp">
-    <mxGraphModel>
+    <mxGraphModel dx="1734" dy="1060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="MmUl_UAw7Z8p1S7rkP4P-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MmUl_UAw7Z8p1S7rkP4P-1" target="MmUl_UAw7Z8p1S7rkP4P-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MmUl_UAw7Z8p1S7rkP4P-1" value="Repository" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="140" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MmUl_UAw7Z8p1S7rkP4P-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MmUl_UAw7Z8p1S7rkP4P-2" target="MmUl_UAw7Z8p1S7rkP4P-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MmUl_UAw7Z8p1S7rkP4P-2" value="Repository" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="140" y="140" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MmUl_UAw7Z8p1S7rkP4P-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="MmUl_UAw7Z8p1S7rkP4P-3" target="MmUl_UAw7Z8p1S7rkP4P-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MmUl_UAw7Z8p1S7rkP4P-3" value="Repository" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="140" y="240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MmUl_UAw7Z8p1S7rkP4P-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="MmUl_UAw7Z8p1S7rkP4P-26" target="MmUl_UAw7Z8p1S7rkP4P-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="180" as="targetPoint" />
+            <mxPoint x="370" y="180" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MmUl_UAw7Z8p1S7rkP4P-9" value="Event Dispatch (event type repository name)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="160" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MmUl_UAw7Z8p1S7rkP4P-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MmUl_UAw7Z8p1S7rkP4P-10" target="MmUl_UAw7Z8p1S7rkP4P-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="661.2380952380952" y="275" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MmUl_UAw7Z8p1S7rkP4P-10" value="&lt;div&gt;Helm Chart GitHub Pages&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="650" y="145" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MmUl_UAw7Z8p1S7rkP4P-11" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/travelling-icon-set/800/helm-128.png" vertex="1" parent="1">
+          <mxGeometry x="640" y="200" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MmUl_UAw7Z8p1S7rkP4P-12" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.github;gradientColor=#DFDEDE" vertex="1" parent="1">
+          <mxGeometry x="200" y="100" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MmUl_UAw7Z8p1S7rkP4P-13" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.github;gradientColor=#DFDEDE" vertex="1" parent="1">
+          <mxGeometry x="200" y="200" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MmUl_UAw7Z8p1S7rkP4P-14" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.github;gradientColor=#DFDEDE" vertex="1" parent="1">
+          <mxGeometry x="200" y="300" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MmUl_UAw7Z8p1S7rkP4P-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MmUl_UAw7Z8p1S7rkP4P-17" target="MmUl_UAw7Z8p1S7rkP4P-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="685" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MmUl_UAw7Z8p1S7rkP4P-17" value="Update Helm Chart related to event dispached" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="625" y="285" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MmUl_UAw7Z8p1S7rkP4P-18" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.github;gradientColor=#DFDEDE" vertex="1" parent="1">
+          <mxGeometry x="619" y="329" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MmUl_UAw7Z8p1S7rkP4P-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MmUl_UAw7Z8p1S7rkP4P-20" target="MmUl_UAw7Z8p1S7rkP4P-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MmUl_UAw7Z8p1S7rkP4P-20" value="Rebuild Helm Chart GitHub Pages" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="625" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MmUl_UAw7Z8p1S7rkP4P-22" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.github;gradientColor=#DFDEDE" vertex="1" parent="1">
+          <mxGeometry x="619" y="410" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MmUl_UAw7Z8p1S7rkP4P-23" value="End !" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="660" y="480" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MmUl_UAw7Z8p1S7rkP4P-26" value="Dispatch Event" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="300" y="155" width="50" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
